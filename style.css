@@ -40,7 +40,6 @@ body{
     animation: kanha 3s cubic-bezier(0.075, 0.82, 0.165, 1) 7s,
         2s kanhaTied ease-in-out 20s,
         2s kanhaRotate ease-in 28s;
-    /* kanhacatch 3s cubic-bezier(0.075, 0.82, 0.165, 1) 10s ; */
     animation-fill-mode: forwards;
 }
 
